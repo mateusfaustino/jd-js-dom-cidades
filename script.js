@@ -26,7 +26,7 @@ const cidades = [
     { uf: "RS", nome: "Caxias do Sul" },
     { uf: "PR", nome: "Londrina" },
     { uf: "PE", nome: "Olinda" },
-    { uf: "CE", nome: "Juazeiro do Norte" },
+    { uf: "CE", nome: "Calcaia" },
     { uf: "SC", nome: "Joinville" },
     { uf: "GO", nome: "Anápolis" },
     { uf: "MT", nome: "Várzea Grande" },
