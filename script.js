@@ -50,7 +50,8 @@ const cidades = [
     { uf: "SC", nome: "Blumenau" },
     { uf: "GO", nome: "Rio Verde" },
     { uf: "MT", nome: "Rondonópolis" },
-    { uf: "MA", nome: "Caxias" }
+    { uf: "MA", nome: "Caxias" },
+    { uf: "CE", nome: "Quixeramobim" }
 ];
 
 function filtrarEstado(){
