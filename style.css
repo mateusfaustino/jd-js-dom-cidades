@@ -1,0 +1,21 @@
+.antigo {
+    text-decoration: line-through;
+    color: red;
+    font-size: 12px;
+}
+
+.novo {
+    color: white;
+    font-weight: bold;
+    background: green;
+    padding: 4px;
+    border-radius: 50%;
+}
+
+ul {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+    flex-direction: column;
+}
