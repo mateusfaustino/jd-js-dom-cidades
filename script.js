@@ -12,7 +12,7 @@ const cidades = [
     { uf: "MT", nome: "Cuiabá" },
     { uf: "MA", nome: "São Luís" },
     { uf: "AL", nome: "Maceió" },
-    { uf: "PB", nome: "João Pessoa" },
+    { uf: "PB", nome: "Lucena" },
     { uf: "ES", nome: "Vitória" },
     { uf: "AC", nome: "Rio Branco" },
     { uf: "AM", nome: "Manaus" },
